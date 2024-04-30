@@ -1,4 +1,4 @@
-package ar.unju.edu.fi.ejercicio1.util;
+package ar.edu.unju.fi.ejercicio1.util;
 
 public enum Categoria {
 	TELEFONIA, INFORMATICA, ELECTROHOGAR, HERRAMIENTAS;

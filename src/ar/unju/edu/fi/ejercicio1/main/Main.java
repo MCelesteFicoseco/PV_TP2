@@ -6,8 +6,8 @@ import java.util.List;
 import java.util.Scanner;
 
 import ar.edu.unju.fi.ejercicio1.model.Producto;
-import ar.unju.edu.fi.ejercicio1.util.Categoria;
-import ar.unju.edu.fi.ejercicio1.util.OrigenFabricacion;
+import ar.edu.unju.fi.ejercicio1.util.Categoria;
+import ar.edu.unju.fi.ejercicio1.util.OrigenFabricacion;
 
 
 

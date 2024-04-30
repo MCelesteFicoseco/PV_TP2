@@ -1,7 +1,7 @@
 package ar.edu.unju.fi.ejercicio1.model;
 
-import ar.unju.edu.fi.ejercicio1.util.Categoria;
-import ar.unju.edu.fi.ejercicio1.util.OrigenFabricacion;
+import ar.edu.unju.fi.ejercicio1.util.Categoria;
+import ar.edu.unju.fi.ejercicio1.util.OrigenFabricacion;
 
 public class Producto {
 	private String codigo;
