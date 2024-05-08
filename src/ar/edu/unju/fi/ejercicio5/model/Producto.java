@@ -55,6 +55,9 @@ public class Producto {
 	public Categoria getCategoria() {
 		return categoria;
 	}
+	public boolean getEstado() {
+		return estado;
+	}
 	public void setCategoria(Categoria categoria) {
 		this.categoria = categoria;
 	}
@@ -70,9 +73,6 @@ public class Producto {
 		return "\nProducto \nCodigo: " + codigo + "\nDescripcion: " + descripcion + "\nPrecio unitario:" + precioUnitario
 				+ "\nOrigen de fabricacion: " + origenFabricacion + "\nCategoria:" + categoria + "\nEstado:" + estado;
 	}
-	
-	
-	
 	
 	
 }
